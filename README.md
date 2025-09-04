@@ -9,6 +9,7 @@
   using <b>SQL, Python, Power BI, and Excel</b>.
 </p>
 
+
 Welcome to my Business and Data Analytics Portfolio!  
 This repository highlights my hands-on projects in **Business Analysis** and **Data Analytics**, showcasing expertise in **SQL, Python, Power BI, and Excel** to deliver actionable insights and support data-driven decision-making.  
 
