@@ -43,6 +43,19 @@ This repository highlights my hands-on projects in **Business Analysis** and **D
 - 🔗 [View Project](https://github.com/Abhijeet-Kanse/Superstore-Sales-Analytics-Excel-PowerBI)  
 
 ---
+## 🖼️ Dashboard Gallery  
+
+<p align="center">
+  <img src="LINK_TO_YOUR_SUPERSTORE_DASHBOARD.png" width="800" alt="<img width="1411" height="795" alt="Screenshot 2025-09-04 235057" src="https://github.com/user-attachments/assets/af5f87b0-fdc4-424a-9820-cc1c49e31efb" />
+"/>
+</p>
+
+<p align="center">
+  <b>Global Store Dashboard (Excel)</b><br/>
+  <img src="LINK_TO_YOUR_GLOBAL_STORE_DASHBOARD.png" width="800" alt="Global Store Dashboard"/>
+</p>
+
+
 ---
 
 ## 🛠️ Tech Stack  
